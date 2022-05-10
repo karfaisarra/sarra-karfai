@@ -1,0 +1,65 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+div.box{
+  background: rgba(0,0,0,.5);
+  width: 850px;
+  height: 500px;
+  margin: auto;
+  border-radius: 20px;
+  padding: 40px;
+}
+div.container{
+  width: 700px;
+  margin: auto;
+  padding: 40px;
+}
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+header > h1{
+  font-size:20px;
+  color: lime;
+  text-align: center
+}
+nav{
+  background-color: lime;
+  padding: 2px 4px;
+  text-align: center
+}
+.button{
+  font-size: 10px;
+}
+section > p{
+  font-size: 11px;
+}
+section > h3{
+  font-size: 15px;
+}
+.deco{
+  line-height: 5%;
+  color: white;
+}
+.rettangolo1{
+  width: 300px;
+  height: 20px;
+  background-color: sandybrown;
+  border-radius: 3px;
+}
+.rettangolo2{
+  width: 500px;
+  height: 20px;
+  background-color: forestgreen;
+  border-radius: 3px;
+}
+.rettangolo3{
+  width: 150px;
+  height: 20px;
+  background-color: indianred;
+  border-radius: 3px;
+}
